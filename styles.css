@@ -1,0 +1,58 @@
+ #top-section{
+    background: url("./images/concert1.jpg") no-repeat center; 
+    background-size: cover;
+    height: 150px;
+  }
+
+#main-body{
+    background: url("./images/concert4.jpg"); 
+    background-size: cover;
+background-repeat: no-repeat;
+}
+
+#user-input{
+  margin-top: 4%;
+}
+
+.main-page-logo{
+position: absolute;
+  top: 8px;
+  left: 16px;
+  color: gold;
+}
+
+#search-div{
+    padding-top: 2%;
+}
+
+#search-results{
+    margin-top: 2%;
+}
+
+.result-card{
+    background: #000000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #000000, #434343); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #000000, #434343); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+}
+
+.result-card hr{
+    border-color: white;
+}
+
+#profile h1{
+    text-align: center;
+    margin-top: 1.5%;
+}
+
+.interest-card{
+    background: #000000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #000000, #434343); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #000000, #434343); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+    margin-bottom:1%;
+}
+
+.interest-card hr{
+    border-color: white;
+}
