@@ -18,7 +18,6 @@ background-repeat: no-repeat;
 position: absolute;
   top: 8px;
   left: 16px;
-  color: gold;
 }
 
 #search-div{
@@ -40,8 +39,7 @@ position: absolute;
     border-color: white;
 }
 
-#profile h1{
-    text-align: center;
+#profile {
     margin-top: 1.5%;
 }
 
